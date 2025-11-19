@@ -1,0 +1,5 @@
+init_structure.sh
+__pycache__/
+dlp
+**/data
+*.pyc
