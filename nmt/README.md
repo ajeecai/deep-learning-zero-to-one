@@ -41,5 +41,5 @@ This repository provides a step-by-step example of a complete NMT workflow, from
 - cd project_root
     - `python3 -m nmt.step_03_transformer.ch02_train_transformer` or `python3 -m nmt.step_03_transformer.ch02_train_transformer --resumed-model=transformer_nmt.pth`, example output:
     ![training](./assets/training.png)
-    - `python -m nmt.step_03_transformer.ch04_interactive_translate --model-path=<your_model_name>.pth`,to do the translation, example output:
+    - `python -m nmt.step_03_transformer.ch04_interactive_translate --model-path=<your_model_name>.pth`,to do the translation, example output:    
     ![translation](./assets/translation.png)

@@ -4,5 +4,5 @@ This repository documents my journey of building deep learning projects from 0 t
 
 ## Projects
 
-- **Neural Machine Translation - NMT**
+- **NMT - Neural Machine Translation**
   - A complete workflow for an English-to-Chinese translation model based on the Transformer architecture. See `nmt/README.md` for details.
